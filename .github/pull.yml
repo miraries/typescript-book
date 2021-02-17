@@ -1,5 +1,5 @@
 version: "1"
 rules:
   - base: master
-    upstream: basarat/typescript-book:master
+    upstream: basarat:master
     mergeMethod: hardreset
